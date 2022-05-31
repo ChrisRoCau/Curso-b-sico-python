@@ -1,6 +1,6 @@
 # Curso Básico de Python
 
-En este curso aprenderás a progrmar en Python
+En este curso aprenderás a programar en Python
 
 ![imagenes\Python-Symbol p.png](https://github.com/ChrisRoCau/Curso-b-sico-python/blob/main/imagenes/Python-Symbol%20p.png)
 
