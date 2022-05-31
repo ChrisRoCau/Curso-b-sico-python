@@ -1,8 +1,9 @@
-#Curso Básico de Python
+# Curso Básico de Python
 
 En este curso aprenderás a progrmar en Python
 
-![Logo de Python](imagenes\Python-Symbol p.png)
+![imagenes\Python-Symbol p.png](https://github.com/ChrisRoCau/Curso-b-sico-python/blob/main/imagenes/Python-Symbol%20p.png)
+
 
 **Requisitos**
 - Python 3.6 o superior
